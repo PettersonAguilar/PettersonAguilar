@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1f1f1f&height=220&section=header&text=Petterson%20Aguilar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Foco%20em%20Banco%20de%20Dados&descAlignY=58&descSize=20" alt="Banner Petterson Aguilar" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1f1f1f&height=220&section=header&text=Petterson%20Aguilar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dados%20e%20Desenvolvimento%20Web&descAlignY=58&descSize=20" alt="Banner Petterson Aguilar" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Petterson;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+Banco+de+Dados;Python%2C+JavaScript%2C+HTML+e+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Petterson;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Engenharia+de+Dados+e+desenvolvimento+web;Python%2C+JavaScript%2C+HTML+e+CSS" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,125 +22,51 @@
 
 ## Sobre
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, no segundo semestre, com interesse especial em **banco de dados**: modelagem, consultas e a forma como os dados sustentam as aplicações.
+Estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas**, com foco em **Engenharia de Dados** e interesse em desenvolvimento web. Uso **Python** e **JavaScript** na lógica e construo interfaces com **HTML** e **CSS**.
 
-Tenho mais familiaridade com **Python, JavaScript, HTML e CSS**, que uso para construir a lógica e a interface dos meus trabalhos. Mantenho o GitHub ativo e publico aqui os projetos e trabalhos acadêmicos que desenvolvo ao longo do curso.
+No GitHub, publico os projetos acadêmicos que desenvolvo em equipe, trabalhando com fork e pull request, e documento o que construo.
 
-- **Foco:** banco de dados
 - **Formação:** Análise e Desenvolvimento de Sistemas (2º semestre)
-- **Linguagens:** Python, JavaScript, HTML e CSS
-- **Interesse:** transformar dados em sistemas confiáveis e bem organizados
-- **Aberto a:** estágio, projetos colaborativos e troca de conhecimento
+- **Trabalho em equipe:** projetos com 5 e 9 integrantes
+- **Aberto a:** estágio e projetos colaborativos
 
 ---
 
-## Atributos
+## Stack
 
-> Os níveis refletem o momento atual, de 0 a 10. Evoluem junto com o curso.
-
-| Atributo | Nível | Progresso |
-|:--|:--:|:--|
-| **Banco de Dados** (foco) | 3/10 | `███░░░░░░░` |
-| **Python** | 5/10 | `█████░░░░░` |
-| **HTML** | 5/10 | `█████░░░░░` |
-| **JavaScript** | 4/10 | `████░░░░░░` |
-| **CSS** | 4/10 | `████░░░░░░` |
-
----
-
-## Árvore de habilidades: Banco de Dados
-
-Minha especialização. Cada habilidade desbloqueada abre a próxima.
-
-| Habilidade | Estado |
-|:--|:--:|
-| Modelagem de dados (MER e DER) | Em andamento |
-| SQL básico (SELECT, INSERT, UPDATE, DELETE) | Em andamento |
-| Normalização | Bloqueada |
-| SQL intermediário (JOIN e subconsultas) | Bloqueada |
-| Índices e desempenho | Bloqueada |
-| Views, procedures e triggers | Bloqueada |
-| Integração do banco com Python ou JavaScript | Bloqueada |
-
----
-
-## Conquistas
-
-| Conquista | Estado |
-|:--|:--:|
-| Ingressou no curso de Análise e Desenvolvimento de Sistemas | Desbloqueada |
-| Publicou trabalhos acadêmicos no GitHub | Desbloqueada |
-| Escreveu programas em Python | Desbloqueada |
-| Construiu páginas com HTML, CSS e JavaScript | Desbloqueada |
-| Concluir um projeto completo com banco de dados | Bloqueada |
-| Publicar um projeto online | Bloqueada |
-| Conquistar o primeiro estágio | Bloqueada |
-
----
-
-## Mapa da jornada
-
-```mermaid
-flowchart LR
-    A["Início<br/>Ingresso em ADS"] --> B["Base<br/>Python, JS, HTML e CSS"]
-    B --> C["Especialização<br/>Banco de Dados"]
-    C --> D["Projeto completo<br/>com banco de dados"]
-    D --> E["Primeiro<br/>estágio"]
-    E --> F["Profissional<br/>de dados e sistemas"]
-
-    classDef feito fill:#d4af37,stroke:#000000,color:#000000
-    classDef proximo fill:#111111,stroke:#d4af37,color:#ffffff
-    class A,B feito
-    class C,D,E,F proximo
-```
-
----
-
-## Chefe final: o primeiro estágio
-
-| Chefe | **Primeiro estágio em dados ou desenvolvimento** |
+| Área | Tecnologias |
 |:--|:--|
-| Preparação | `███████░░░░░░░░░░░░░` **33%** |
-
-**Itens necessários para a batalha:**
-
-- [x] GitHub com perfil organizado e README profissional
-- [x] Perfil criado no LinkedIn
-- [ ] 3 projetos publicados e bem documentados
-- [ ] 1 projeto completo com banco de dados
-- [ ] Portfólio online (GitHub Pages)
-- [ ] Candidatar-se às primeiras vagas
+| Linguagens | Python, JavaScript |
+| Web | HTML5, CSS3 |
+| Dados (em estudo) | Banco de dados relacionais e SQL |
+| Colaboração | Git, GitHub (fork, pull request e documentação) |
 
 ---
 
-## Missões semanais
+## Projetos
 
-- [ ] Fazer commits em pelo menos **3 dias** da semana
-- [ ] Praticar **consultas SQL** por 1 hora
-- [ ] Documentar um projeto com um **README** claro
-- [ ] Estudar o código de **um projeto** de outra pessoa
+| Projeto | O que é | Minha parte | Tecnologias |
+|:--|:--|:--|:--|
+| **[TopFive Cinema](https://github.com/PettersonAguilar/TopFiveCinema)** | Site em equipe (9 integrantes) da disciplina Desenvolvimento Front-End para Web, com os 5 filmes mais bem avaliados de 7 gêneros e 39 páginas HTML | Páginas e CSS dos 5 filmes de Comédia | `HTML5` `CSS3` `JavaScript` |
+| **[Dossiê 4: Deepfakes e Proveniência de Conteúdo](https://github.com/PettersonAguilar/-Deepfakes-e-Proveniencia-Digital-Autenticidade-Rastreabilidade-e-Confiabilidade-do-Conte-do-)** | Proposta técnica em equipe (5 integrantes) do VerificaBR, plataforma de verificação assistida de áudios e vídeos, com arquitetura, ética, LGPD e acessibilidade | Integrante da área de Engenharia de Dados | `Arquitetura` `C2PA` `LGPD` `WCAG` |
+| **[Perfil automatizado](https://github.com/PettersonAguilar/PettersonAguilar)** | Este README: as estatísticas abaixo são atualizadas sozinhas por um workflow que consulta a API do GitHub | Configuração do repositório e do workflow | `Python` `GitHub Actions` |
 
 ---
 
-## Projetos em destaque
+## Próximas fases
 
-> Edite esta tabela com os projetos reais. Escolha os 3 melhores e explique o que cada um faz.
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|:--|:--|:--|
-| **[Nome do projeto 1](https://github.com/PettersonAguilar)** | Uma frase explicando o problema que ele resolve | `Python` |
-| **[Nome do projeto 2](https://github.com/PettersonAguilar)** | Uma frase explicando o problema que ele resolve | `HTML` `CSS` `JavaScript` |
-| **[Nome do projeto 3](https://github.com/PettersonAguilar)** | Uma frase explicando o problema que ele resolve | `Banco de Dados` |
-
-</div>
+| Fase | Objetivo | Estado |
+|:--|:--|:--:|
+| 1 | Projetos em equipe com Git e pull requests | Concluída |
+| 2 | Projeto individual com demonstração online (GitHub Pages) | Próxima |
+| 3 | Projeto de dados com Python: coleta, tratamento e consulta | Bloqueada |
+| 4 | Primeiro estágio | Bloqueada |
 
 ---
 
 ## Estatísticas do jogador
 
-Seção atualizada automaticamente pelo GitHub Actions, a partir da API oficial do GitHub.
+Atualizadas automaticamente pelo GitHub Actions, a partir da API oficial do GitHub.
 
 <!--STATS_START-->
 <div align="center">
@@ -155,8 +81,8 @@ Seção atualizada automaticamente pelo GitHub Actions, a partir da API oficial 
 |:--|--:|
 | Repositórios públicos | **3** |
 | Commits no último ano | **23** |
-| Sequência atual | **1 dias** |
-| Maior sequência (último ano) | **1 dias** |
+| Sequência atual | **1 dia** |
+| Maior sequência (último ano) | **1 dia** |
 | Pull requests | **4** |
 | Issues abertas | **0** |
 | Estrelas recebidas | **0** |
@@ -164,12 +90,6 @@ Seção atualizada automaticamente pelo GitHub Actions, a partir da API oficial 
 | No GitHub desde | **2026** |
 
 **Atividade nas últimas 26 semanas:** `▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▁▁▁▃▁▁█`
-
-#### Linguagens mais usadas
-
-| Linguagem | Uso | % |
-|:--|:--|--:|
-| Python | `████████████████████` | 100.0% |
 
 #### Conquistas do GitHub
 
@@ -186,23 +106,6 @@ Seção atualizada automaticamente pelo GitHub Actions, a partir da API oficial 
 
 <sub>Atualizado automaticamente em 08/11/2026 14:49 (Brasília)</sub>
 <!--STATS_END-->
-
----
-
-## Fase secreta
-
-<details>
-<summary><b>Você encontrou uma fase secreta. Clique para abrir.</b></summary>
-
-<br/>
-
-```text
-↑ ↑ ↓ ↓ ← → ← → B A     CÓDIGO KONAMI ATIVADO
-```
-
-Bônus desbloqueado: quem chega até aqui merece uma conversa. Me chame no LinkedIn ou por e-mail para trocarmos ideias sobre banco de dados, projetos e oportunidades.
-
-</details>
 
 ---
 
