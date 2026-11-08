@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Petterson Aguilar, estudante de Análise e Desenvolvimento de Sistemas" width="100%" />
+<img src="banner.svg" alt="Petterson Aguilar, estudante de Análise e Desenvolvimento de Sistemas" width="100%" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="assets/ficha.svg" alt="Ficha de personagem de Petterson Aguilar" width="100%" />
+<img src="ficha.svg" alt="Ficha de personagem de Petterson Aguilar" width="100%" />
 
 </div>
 
@@ -169,6 +169,6 @@ Bônus desbloqueado: quem chega até aqui merece uma conversa. Me chame no Linke
 
 <br/>
 
-<img src="assets/rodape.svg" alt="Fim de fase" width="100%" />
+<img src="rodape.svg" alt="Fim de fase" width="100%" />
 
 </div>
