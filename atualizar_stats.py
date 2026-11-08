@@ -132,6 +132,10 @@ def bar(pct, size=20):
     return "█" * filled + "░" * (size - filled)
 
 
+def dias(n):
+    return f"{n} dia" if n == 1 else f"{n} dias"
+
+
 def num(n):
     return f"{n:,}".replace(",", ".")
 
@@ -168,8 +172,8 @@ def render(s):
         "|:--|--:|",
         f"| Repositórios públicos | **{num(s['repos'])}** |",
         f"| Commits no último ano | **{num(s['commits'])}** |",
-        f"| Sequência atual | **{s['cur_streak']} dias** |",
-        f"| Maior sequência (último ano) | **{s['best_streak']} dias** |",
+        f"| Sequência atual | **{dias(s['cur_streak'])}** |",
+        f"| Maior sequência (último ano) | **{dias(s['best_streak'])}** |",
         f"| Pull requests | **{num(s['prs'])}** |",
         f"| Issues abertas | **{num(s['issues'])}** |",
         f"| Estrelas recebidas | **{num(s['stars'])}** |",
@@ -217,11 +221,7 @@ def build_stats():
         cur = best = commits = prs = issues = reviews = 0
         spark = "▁" * 26
 
-    try:
-        totals = fetch_languages(repos)
-    except Exception as exc:
-        print(f"aviso: linguagens indisponiveis: {exc}")
-        totals = {}
+    totals = {}  # linguagens ficam na tabela de stack: os repositorios de equipe sao forks
     grand = sum(totals.values())
     langs = []
     if grand:
