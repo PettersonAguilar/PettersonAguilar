@@ -143,7 +143,48 @@ flowchart LR
 Seção atualizada automaticamente pelo GitHub Actions, a partir da API oficial do GitHub.
 
 <!--STATS_START-->
-Aguardando a primeira atualização automática.
+<div align="center">
+
+### Nível 4 · Aprendiz
+
+`██████████████░░░░░░` **71%** para o nível 5 · **700 XP**
+
+</div>
+
+| Estatística | Valor |
+|:--|--:|
+| Repositórios públicos | **3** |
+| Commits no último ano | **23** |
+| Sequência atual | **1 dias** |
+| Maior sequência (último ano) | **1 dias** |
+| Pull requests | **4** |
+| Issues abertas | **0** |
+| Estrelas recebidas | **0** |
+| Seguidores | **20** |
+| No GitHub desde | **2026** |
+
+**Atividade nas últimas 26 semanas:** `▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▁▁▁▃▁▁█`
+
+#### Linguagens mais usadas
+
+| Linguagem | Uso | % |
+|:--|:--|--:|
+| Python | `████████████████████` | 100.0% |
+
+#### Conquistas do GitHub
+
+| Conquista | Status |
+|:--|:--:|
+| Criou o primeiro repositório | Desbloqueada |
+| 5 repositórios públicos | Bloqueada |
+| 10 commits no último ano | Desbloqueada |
+| 100 commits no último ano | Bloqueada |
+| 7 dias seguidos de commits | Bloqueada |
+| Abriu um pull request | Desbloqueada |
+| Ganhou a primeira estrela | Bloqueada |
+| 10 seguidores | Desbloqueada |
+
+<sub>Atualizado automaticamente em 08/11/2026 14:49 (Brasília)</sub>
 <!--STATS_END-->
 
 ---
