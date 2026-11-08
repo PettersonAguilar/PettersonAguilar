@@ -73,16 +73,16 @@ Atualizadas automaticamente pelo GitHub Actions, a partir da API oficial do GitH
 
 ### Nível 4 · Aprendiz
 
-`███████████████░░░░░` **77%** para o nível 5 · **720 XP**
+`████████████████░░░░` **80%** para o nível 5 · **730 XP**
 
 </div>
 
 | Estatística | Valor |
 |:--|--:|
 | Repositórios públicos | **3** |
-| Commits no último ano | **25** |
-| Sequência atual | **1 dias** |
-| Maior sequência (último ano) | **1 dias** |
+| Commits no último ano | **26** |
+| Sequência atual | **1 dia** |
+| Maior sequência (último ano) | **1 dia** |
 | Pull requests | **4** |
 | Issues abertas | **0** |
 | Estrelas recebidas | **0** |
@@ -90,12 +90,6 @@ Atualizadas automaticamente pelo GitHub Actions, a partir da API oficial do GitH
 | No GitHub desde | **2026** |
 
 **Atividade nas últimas 26 semanas:** `▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▃▁▁▁▃▁▁█`
-
-#### Linguagens mais usadas
-
-| Linguagem | Uso | % |
-|:--|:--|--:|
-| Python | `████████████████████` | 100.0% |
 
 #### Conquistas do GitHub
 
@@ -110,7 +104,7 @@ Atualizadas automaticamente pelo GitHub Actions, a partir da API oficial do GitH
 | Ganhou a primeira estrela | Bloqueada |
 | 10 seguidores | Desbloqueada |
 
-<sub>Atualizado automaticamente em 08/11/2026 15:00 (Brasília)</sub>
+<sub>Atualizado automaticamente em 08/11/2026 15:02 (Brasília)</sub>
 <!--STATS_END-->
 
 ---
