@@ -30,7 +30,7 @@ jobs:
         env:
           GH_USER: PettersonAguilar
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/atualizar_stats.py
+        run: python atualizar_stats.py
 
       - name: Salvar alterações no README
         run: |
