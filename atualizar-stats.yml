@@ -1,0 +1,46 @@
+name: Atualizar estatísticas
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # a cada hora
+  workflow_dispatch:       # botão "Run workflow" na aba Actions
+  push:
+    branches: [main]       # a cada commit neste repositório
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-stats
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar estatísticas
+        env:
+          GH_USER: PettersonAguilar
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/atualizar_stats.py
+
+      - name: Salvar alterações no README
+        run: |
+          if git diff --quiet README.md; then
+            echo "Nenhuma mudança."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: atualiza estatísticas do perfil"
+          git pull --rebase origin main
+          git push
