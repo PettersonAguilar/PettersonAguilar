@@ -1,140 +1,118 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Petterson%20Aguilar&fontColor=c9d1d9&fontSize=42&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20Python%20%C2%B7%20Web&descColor=b08d57&descAlignY=70&descSize=16" alt="Petterson Aguilar - Desenvolvedor em formação, Banco de Dados, Python e Web" width="100%"/>
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em banco de dados.
-Aprendo construindo: cada trabalho acadêmico vira um projeto documentado neste GitHub.
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=b08d57" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logoColor=b08d57" alt="E-mail"/></a>
-<a href="https://github.com/SEU-USUARIO?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-0d1117?style=for-the-badge&logo=github&logoColor=b08d57" alt="Repositórios"/></a>
+<img src="assets/banner.svg" alt="Petterson Aguilar - Desenvolvedor em Formação | Especialização: Banco de Dados" width="100%">
+<br>
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Banco de Dados.
+<br>
+<a href="#ficha-de-personagem">Ficha</a>  | 
+<a href="#árvore-de-habilidades">Habilidades</a>  | 
+<a href="#diário-de-missões">Missões</a>  | 
+<a href="#conquistas">Conquistas</a>  | 
+<a href="#estatísticas-do-jogador">Estatísticas</a>  | 
+<a href="#contato">Contato</a>
 </div>
-<br>
-Sobre mim (Introdução)
-Estou no segundo semestre de Análise e Desenvolvimento de Sistemas e já programo em Python, JavaScript, HTML e CSS. Uso o GitHub no dia a dia para versionar e publicar meus trabalhos acadêmicos.
-Entre todas as áreas da tecnologia, a que mais me atrai é banco de dados: gosto de entender como a informação é organizada, relacionada e consultada. É nessa área que quero me especializar.
-Estou em busca de oportunidades para aprender na prática, contribuir com equipes e evoluir como profissional.
-<br>
-Ficha do personagem
+<img src="assets/divider.svg" alt="" width="100%">
+Ficha de Personagem
 <div align="center">
-	
-Nome	Petterson Aguilar
-Classe	Desenvolvedor em formação
+  <img src="assets/character-sheet.svg" alt="Ficha de personagem: nível 2, classe Desenvolvedor em Formação, especialização em Banco de Dados" width="100%">
+</div>
+<img src="assets/divider.svg" alt="" width="100%">
+Sobre o Jogador
+Sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas. Meu maior interesse está em Banco de Dados: modelagem, organização da informação e consultas SQL. Tenho mais prática com Python, JavaScript, HTML e CSS, e uso o GitHub no dia a dia para versionar e documentar os trabalhos acadêmicos que desenvolvo.
+Estou em evolução constante e aberto a oportunidades de estágio e aprendizado nas áreas de dados e desenvolvimento.
+Atributo	Descrição
+Classe	Desenvolvedor em Formação
 Especialização	Banco de Dados
-Guilda	Análise e Desenvolvimento de Sistemas, 2º semestre
-Arsenal	Python, JavaScript, HTML, CSS, SQL
-Missão atual	Aprofundar modelagem e consultas em bancos de dados
-Status	Aberto a oportunidades de estágio
-</div>
-<br>
-Atributos
+Guilda	Análise e Desenvolvimento de Sistemas
+Semestre atual	2º
+Base de operações	GitHub
+<img src="assets/divider.svg" alt="" width="100%">
+Árvore de Habilidades
 <div align="center">
-Atributo	Nível	Progresso
-Python	4 / 5	`████████░░`
-HTML	4 / 5	`████████░░`
-JavaScript	3 / 5	`██████░░░░`
-CSS	3 / 5	`██████░░░░`
-Git e GitHub	3 / 5	`██████░░░░`
-SQL	2 / 5	`████░░░░░░`
-Modelagem de dados	2 / 5	`████░░░░░░`
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=c9a227" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=c9a227" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=c9a227" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=c9a227" alt="CSS3">
+<img src="https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logoColor=c9a227" alt="SQL">
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=c9a227" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a227" alt="GitHub">
 </div>
 <br>
-Equipamento (Tecnologias)
-<div align="center">
-	
-Linguagens	<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=b08d57" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=b08d57" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=b08d57" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logoColor=b08d57" alt="CSS"/>
-Banco de dados	<img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logoColor=b08d57" alt="SQL"/> <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=b08d57" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=b08d57" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=b08d57" alt="SQLite"/>
-Ferramentas	<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=b08d57" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=b08d57" alt="GitHub"/> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=b08d57" alt="Linux"/>
-</div>
-<br>
-Árvore de habilidades
-```text
- RAIZ: DESENVOLVIMENTO
-  │
-  ├── [x] Lógica de programação
-  ├── [x] Python
-  ├── [x] HTML e CSS
-  ├── [x] JavaScript
-  ├── [x] Git e GitHub
-  │
-  └── RAMO ESPECIAL: BANCO DE DADOS
-       │
-       ├── [x] Conceitos básicos de BD
-       ├── [x] Modelo Entidade-Relacionamento (MER)
-       ├── [x] Comandos básicos: SELECT, INSERT, UPDATE, DELETE
-       ├── [ ] JOINs e subconsultas
-       ├── [ ] Normalização
-       ├── [ ] Views, procedures e triggers
-       ├── [ ] Índices e otimização de consultas
-       └── [ ] Conectar Python a um banco de dados
+Habilidade	Nível	Progresso	Observação
+Banco de Dados / SQL	6/10	`██████░░░░`	Foco principal de estudo
+Python	7/10	`███████░░░`	Lógica de programação e trabalhos acadêmicos
+JavaScript	6/10	`██████░░░░`	Interatividade e fundamentos da web
+HTML	8/10	`████████░░`	Estrutura e semântica de páginas
+CSS	7/10	`███████░░░`	Estilização e layout
+Git e GitHub	7/10	`███████░░░`	Versionamento dos projetos da faculdade
+<img src="assets/divider.svg" alt="" width="100%">
+Grimório
+Meu personagem descrito em código, porque é assim que eu gosto de contar histórias.
+```python
+from dataclasses import dataclass, field
+
+
+@dataclass
+class Desenvolvedor:
+    nome: str = "Petterson Aguilar"
+    classe: str = "Desenvolvedor em Formação"
+    guilda: str = "Análise e Desenvolvimento de Sistemas"
+    semestre: int = 2
+    especializacao: str = "Banco de Dados"
+    ferramentas: list = field(
+        default_factory=lambda: ["Python", "JavaScript", "HTML", "CSS", "SQL", "Git"]
+    )
+    missao_atual: str = "Evoluir em modelagem de dados e consultas SQL"
+
+    def evoluir(self) -> None:
+        self.semestre += 1
+
+
+if __name__ == "__main__":
+    print(Desenvolvedor())
 ```
-<br>
-Missões em destaque (Projetos)
-<div align="center">
-Missão	Descrição	Tecnologias	Link
-NOME DO PROJETO 1	Uma frase sobre o que o projeto faz e qual problema resolve	Python, MySQL	Ver
-NOME DO PROJETO 2	Uma frase sobre o que o projeto faz e qual problema resolve	HTML, CSS, JavaScript	Ver
-NOME DO PROJETO 3	Uma frase sobre o que o projeto faz e qual problema resolve	SQL, Modelagem de dados	Ver
-</div>
-<!--
-OPCIONAL: cartões de repositórios fixados.
-Quando tiver os nomes reais dos repositórios, apague esta linha e a última linha deste bloco
-e troque NOME-DO-REPOSITORIO pelo nome de cada um.
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPOSITORIO-1&bg_color=0d1117&border_color=30363d&title_color=b08d57&icon_color=b08d57&text_color=c9d1d9" alt="Repositório 1"/></a>
-<a href="https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=NOME-DO-REPOSITORIO-2&bg_color=0d1117&border_color=30363d&title_color=b08d57&icon_color=b08d57&text_color=c9d1d9" alt="Repositório 2"/></a>
-
-</div>
-<br>
-Diário de missões (Roadmap)
-<div align="center">
-Status	Missão
-Em andamento	Concluir o semestre com ótimas notas
-Em andamento	Praticar SQL com exercícios e modelagem de bancos
-Planejada	Conectar um projeto em Python ou JavaScript a um banco de dados
-Planejada	Criar um projeto pessoal completo, do banco de dados à interface
-Planejada	Estudar boas práticas de Git: branches, commits claros e pull requests
-</div>
-<br>
+E a mesma ideia em SQL:
+```sql
+SELECT habilidade, nivel
+FROM personagem
+WHERE especializacao = 'Banco de Dados'
+ORDER BY nivel DESC;
+```
+<img src="assets/divider.svg" alt="" width="100%">
+Diário de Missões
+Os trabalhos acadêmicos que desenvolvo ficam organizados nos meus repositórios. Cada missão concluída soma experiência.
+Missão	Domínio	Status
+Modelagem de dados, diagramas e consultas SQL	Banco de Dados	Em andamento
+Algoritmos e lógica de programação	Python	Em andamento
+Páginas e interfaces web	HTML, CSS e JavaScript	Em andamento
+Versionamento e documentação dos trabalhos	Git e GitHub	Contínua
+Para ver todas as missões, acesse a aba de repositórios do perfil.
+<img src="assets/divider.svg" alt="" width="100%">
 Conquistas
 <div align="center">
-Conquista	Descrição	Status
-Primeiro Login	Criar conta no GitHub	Desbloqueada
-Calouro	Iniciar a faculdade	Desbloqueada
-Primeiro Commit	Enviar o primeiro commit	Desbloqueada
-Colecionador de Repositórios	Publicar vários trabalhos acadêmicos	Desbloqueada
-Domador de Serpentes	Programar em Python	Desbloqueada
-Tecelão da Web	Criar páginas com HTML, CSS e JavaScript	Desbloqueada
-Mestre das Queries	Resolver 50 exercícios de SQL	Bloqueada
-Arquiteto	Modelar um banco de dados do zero	Bloqueada
-Dono de Projeto	Publicar um projeto pessoal completo	Bloqueada
+  <img src="assets/achievements.svg" alt="Conquistas: Iniciado e Arquivista desbloqueadas; Alquimista em progresso; Arquiteto, Aventureiro e Contribuidor bloqueadas" width="100%">
 </div>
-<br>
-Formação
+<img src="assets/divider.svg" alt="" width="100%">
+Progressão
+Mapa de evolução para os próximos níveis:
+[x] Nível 1: ingressar em Análise e Desenvolvimento de Sistemas
+[x] Nível 2: dominar o básico de Python, HTML, CSS e JavaScript e versionar trabalhos no GitHub
+[ ] Nível 3: aprofundar modelagem de dados e consultas SQL
+[ ] Nível 4: construir um projeto completo com banco de dados relacional
+[ ] Nível 5: conquistar o primeiro estágio ou projeto real
+[ ] Nível 6: contribuir com um projeto open source
+<img src="assets/divider.svg" alt="" width="100%">
+Estatísticas do Jogador
 <div align="center">
-Curso	Instituição	Situação
-Tecnologia em Análise e Desenvolvimento de Sistemas	SUA-FACULDADE	Em andamento, 2º semestre
+<img src="https://github-readme-stats.vercel.app/api?username=PettersonAguilar&amp;show_icons=true&amp;hide_border=false&amp;bg_color=050505&amp;title_color=c9a227&amp;text_color=f0ead6&amp;icon_color=c9a227&amp;border_color=2a2a2a" alt="Estatísticas do GitHub" height="170">
+<img src="https://streak-stats.demolab.com?user=PettersonAguilar&amp;background=050505&amp;border=2A2A2A&amp;stroke=2A2A2A&amp;ring=C9A227&amp;fire=C9A227&amp;currStreakNum=F0EAD6&amp;sideNums=F0EAD6&amp;currStreakLabel=C9A227&amp;sideLabels=8A8A8A&amp;dates=8A8A8A" alt="Sequência de contribuições" height="170">
 </div>
-<br>
-Código do personagem (Como eu trabalho)
-Organização: projetos versionados, com commits claros e README explicando como usar.
-Modelar antes de programar: pensar na estrutura dos dados antes de escrever código.
-Aprender fazendo: transformar cada conteúdo da faculdade em prática no GitHub.
-Trabalho em equipe: comunicação clara, abertura a feedback e vontade de aprender com quem sabe mais.
-<br>
-Estatísticas do jogador
+<img src="assets/divider.svg" alt="" width="100%">
+Contato
+Se você chegou até aqui, vamos conversar.
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=b08d57&icon_color=b08d57&text_color=c9d1d9&text_bold=false" alt="Estatísticas do GitHub" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=b08d57&text_color=c9d1d9" alt="Linguagens mais usadas" height="170"/>
+<a href="https://www.linkedin.com/in/pettersonaguilar"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=c9a227" alt="LinkedIn"></a>
+<a href="mailto:pettersonmichellima@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=c9a227" alt="E-mail"></a>
+<a href="https://github.com/PettersonAguilar?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-0d0d0d?style=for-the-badge&logo=github&logoColor=c9a227" alt="Repositórios no GitHub"></a>
 <br><br>
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&background=0d1117&ring=b08d57&fire=b08d57&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" alt="Sequência de contribuições"/>
+<sub>Petterson Aguilar | Análise e Desenvolvimento de Sistemas</sub>
 </div>
-<br>
-Formar party (Contato)
-<div align="center">
-Se você busca alguém em formação, com vontade de aprender e foco em dados, vamos conversar.
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logoColor=b08d57" alt="LinkedIn"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logoColor=b08d57" alt="E-mail"/></a>
-<br><br>
-"Todo grande arquiteto de dados já foi um nível 1."
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%" alt=""/>
