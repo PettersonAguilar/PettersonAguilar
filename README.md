@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="banner.svg" alt="Petterson Aguilar, estudante de Análise e Desenvolvimento de Sistemas" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1f1f1f&height=220&section=header&text=Petterson%20Aguilar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Foco%20em%20Banco%20de%20Dados&descAlignY=58&descSize=20" alt="Banner Petterson Aguilar" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Petterson;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+Banco+de+Dados;Python%2C+JavaScript%2C+HTML+e+CSS" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -169,6 +173,6 @@ Bônus desbloqueado: quem chega até aqui merece uma conversa. Me chame no Linke
 
 <br/>
 
-<img src="rodape.svg" alt="Fim de fase" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:0d0d0d,100:000000&height=120&section=footer" alt="Rodapé" width="100%" />
 
 </div>
